@@ -36,6 +36,7 @@ body {
 }
 
 #btnAdicionar, #btnZerar {
+  cursor: pointer;
   padding: 1rem;
   width: 100%;
   margin-bottom: .5rem;
@@ -45,7 +46,7 @@ body {
 }
 
 #btnAdicionar {
-  background-color: green;
+  background-color: #5EFF59;
 }
 #btnZerar {
   background-color: darkgrey;
